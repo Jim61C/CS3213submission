@@ -1,3 +1,5 @@
+import java.awt.Component;
+import java.awt.ComponentOrientation;
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
@@ -7,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
@@ -29,6 +32,8 @@ import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
 import org.eclipse.swt.custom.StyleRange;
 import org.eclipse.swt.custom.StyledText;
+import org.eclipse.wb.swt.SWTResourceManager;
+import org.eclipse.swt.widgets.ProgressBar;
 
 
 public class Processor extends ApplicationWindow {
@@ -75,10 +80,27 @@ public class Processor extends ApplicationWindow {
 		final StyledText Resulttext = new StyledText(container, SWT.BORDER |SWT.V_SCROLL|SWT.H_SCROLL);
 		Resulttext.setBounds(385, 39, 189, 203);
 		
+		final Label donelabel = new Label(container, SWT.NONE);
+		donelabel.setFont(SWTResourceManager.getFont("Algerian", 15, SWT.ITALIC));
+		donelabel.setBounds(493, 279, 80, 31);
+		
+		final Label prolabel = new Label(container, SWT.NONE);
+		prolabel.setBounds(140, 295, 186, 17);
+		
+		final Label countlabel = new Label(container, SWT.NONE);
+		countlabel.setBounds(333, 295, 110, 17);
+		
+		final Button boldButton = new Button(container, SWT.CHECK);
+		boldButton.setBounds(106, 262, 97, 17);
+		boldButton.setText("Bold First Keyword");
+		boldButton.setSelection(false);//reset selection button
+		
 		Button ProcessButton = new Button(container, SWT.NONE);
 		ProcessButton.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
+				donelabel.setText("");//reset done label
+				
 				
 				//get Input
 				InputStream is = new ByteArrayInputStream(titleText.getText().getBytes()); 
@@ -121,13 +143,25 @@ public class Processor extends ApplicationWindow {
 				String result=myShifter.print();
 				Resulttext.setText(result);
 				
+				
+				//JFrame proframe= new JFrame ();
+				//proframe.setVisible(true);
+				//JTextArea prot= new JTextArea("Applying bold effect");
+				//proframe.add(prot);
+				
+				
+				
+				if(boldButton.getSelection())
+				{
 				//Apply the bold effect
+				prolabel.setText("KWIC done, Apply bold effects: ");
+				int total=result.split("\n").length;
 				int start=0;
 				int currentl;
 				StyleRange styleRange=null;
 				ArrayList<StyleRange> tmp = new ArrayList <StyleRange>();
 				
-				
+				int num=0;
 				while (start<result.length())
 				{
 					//System.out.println(start);
@@ -138,7 +172,7 @@ public class Processor extends ApplicationWindow {
 					styleRange.length = result.substring(start).indexOf(" ");
 					styleRange.fontStyle = SWT.BOLD;
 					tmp.add(styleRange);
-					
+					countlabel.setText((num++) +" / "+ total);
 					start+=currentl+1;
 					
 				}
@@ -149,12 +183,43 @@ public class Processor extends ApplicationWindow {
 				Resulttext.setStyleRanges(rs);
 				
 				
+			
+				prolabel.setText("");
+				
+				countlabel.setText("");
+				}
+				donelabel.setText("Done!");
+				
 				
 				
 			}
 		});
 		ProcessButton.setBounds(20, 257, 80, 27);
 		ProcessButton.setText("CircularShift");
+		
+		Button Reset = new Button(container, SWT.NONE);
+		Reset.addSelectionListener(new SelectionAdapter() {
+			@Override
+			public void widgetSelected(SelectionEvent e) {
+				titleText.setText("");
+				Resulttext.setText("");
+				wordText.setText("");
+				donelabel.setText("");//reset done label
+				boldButton.setSelection(false);//reset selection button
+				
+			}
+		});
+		Reset.setBounds(20, 290, 80, 27);
+		Reset.setText("Reset");
+		
+	
+
+		
+		
+		
+		
+		
+
 		
 	
 
@@ -228,6 +293,6 @@ public class Processor extends ApplicationWindow {
 	 */
 	@Override
 	protected Point getInitialSize() {
-		return new Point(611, 408);
+		return new Point(678, 455);
 	}
 }

@@ -42,22 +42,24 @@ class circShifter {
 		else
 		{
 			int offcounter=0;
-			String tokens []=target.split(" ");
+			StringTokenizer tk= new StringTokenizer (target);
+			String cur=null;
 			
-			
-			for(int i=0;i<tokens.length;i++)
+			while(tk.hasMoreTokens())
 			{
-				if(!nolist.contains(tokens[i].toLowerCase()))
+				cur= tk.nextToken();
+				if(!nolist.contains(cur.toLowerCase()))
 				{
 					indexList.add(new offIndexPair(offcounter,index));
 					//make sure the tokens are in correct format: Cap for the first letter, lower for the rest
-					stringList.set(index,stringList.get(index).substring(0,offcounter)+tokens[i].substring(0,1).toUpperCase()+tokens[i].substring(1).toLowerCase()+stringList.get(index).substring(offcounter+tokens[i].length()));
+			
+					stringList.set(index,stringList.get(index).substring(0,offcounter)+cur.substring(0,1).toUpperCase()+cur.substring(1).toLowerCase()+stringList.get(index).substring(offcounter+cur.length()));
 				}
 				else// change the ignored item to lower case
 				{
-					stringList.set(index,stringList.get(index).substring(0,offcounter)+tokens[i].toLowerCase()+stringList.get(index).substring(offcounter+tokens[i].length()));
+					stringList.set(index,stringList.get(index).substring(0,offcounter)+cur.toLowerCase()+stringList.get(index).substring(offcounter+cur.length()));
 				}
-				offcounter+=tokens[i].length()+1;//jump to next tokens's position
+				offcounter+=cur.length()+1;//jump to next tokens's position
 			}
 		}
 	}
