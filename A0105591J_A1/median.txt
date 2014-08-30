@@ -53,7 +53,7 @@ Almost Famous
 Along Came a Spider
 Alpha Dog
 Alpha and Omega
-The Amazing Spider-Man 2012 film
+The Amazing Spider Man 2012 film
 The Amityville Horror 2005 film
 American Beauty
 American Chai
@@ -178,7 +178,7 @@ Being John Malkovich
 Being There
 Be Kind Rewind
 Believer, The
-Ben-Hur
+Ben Hur
 Bend It Like Beckham
 Benny & Joon
 Beowulf
@@ -202,7 +202,7 @@ Big Fish
 Big Lebowski, The
 Big Night
 Big Sleep, The
-Big Top Pee-wee
+Big Top Pee wee
 Big Trouble
 Big Trouble in Little China
 Bill and Ted's Excellent Adventure
@@ -326,7 +326,7 @@ Casino
 Casino Royale
 Cast Away
 Casualties of War
-Catch-22
+Catch 22
 Catch Me If You Can
 Cat on a Hot Tin Roof
 Cat People
@@ -617,7 +617,7 @@ Ernest Goes to Jail
 Ernest Saves Christmas
 Ernest Scared Stupid
 Escape from New York
-ET the Extra-Terrestrial
+ET the Extra Terrestrial
 Eternal Sunshine of the Spotless Mind
 Eurotrip
 Evan Almighty
@@ -641,7 +641,7 @@ Face/Off
 Factory Girl
 Fahrenheit 451
 Fahrenheit 9/11
-Fail-Safe
+Fail Safe
 Failure to Launch
 Falling Down
 Fame
@@ -865,7 +865,7 @@ Harry Potter and the Chamber of Secrets
 Harry Potter and the Prisoner of Azkaban
 Harry Potter and the Goblet of Fire
 Harry Potter and the Order of the Phoenix
-Harry Potter and the Half-Blood Prince
+Harry Potter and the Half Blood Prince
 Harry Potter and the Deathly Hallows Part 1
 Harry Potter and the Deathly Hallows Part 2
 Harvey
@@ -944,7 +944,7 @@ Hours, The
 The House Bunny
 House on Haunted Hill 1999 film
 How the Grinch Stole Christmas! 1966 cartoon TV movie
-How the Grinch Stole Christmas 2000 live-action movie
+How the Grinch Stole Christmas 2000 live action movie
 How to Lose a Guy in 10 Days
 How to Train Your Dragon
 How to Train Your Dragon 2
@@ -1044,7 +1044,7 @@ James Bond series
 Jarhead
 Jaws
 Jaws 2 1978 film
-Jaws 3-D
+Jaws 3 D
 Jay and Silent Bob Strike Back
 Jeepers Creepers
 Jennifer's Body
@@ -1076,7 +1076,7 @@ Just Friends
 Just Like Heaven
 Juwanna Mann
 K edit 
-K-PAX
+K PAX
 Kagemusha
 Kalifornia
 Kangaroo Jack
@@ -1549,7 +1549,7 @@ PCU
 Peaceful Warrior
 Peacemaker, The
 The Pebble and the Penguin
-Pee-wee's Big Adventure
+Pee wee's Big Adventure
 Peggy Sue Got Married
 Pelican Brief, The
 Penelope 2008 film
@@ -1657,7 +1657,7 @@ Quiet Man, The
 Quills
 Quantum of Solace
 R edit 
-Rabbit-Proof Fence
+Rabbit Proof Fence
 Racing Stripes
 Radio Flyer
 Rage Carrie 2, The
@@ -1809,7 +1809,7 @@ Scent of a Woman
 Schindler's List
 School of Rock
 Science of Sleep, The
-Scooby-Doo
+Scooby Doo
 Scoop
 Scott Pilgrim vs the World
 Scream
@@ -1823,7 +1823,7 @@ The Secret
 The Secret Garden 1993 film
 The Secret of NIMH
 Secret Window
-Semi-Pro
+Semi Pro
 Sense and Sensibility
 Serendipity
 Serenity
@@ -1844,7 +1844,7 @@ Shark Tale
 Shaun of the Dead
 Shawshank Redemption, The
 She's All That
-She-Devil
+She Devil
 She Done Him Wrong
 Shenandoah
 Sherlock Holmes
@@ -1907,9 +1907,9 @@ Space Chimps
 Spartacus
 Speed
 Speed 2 Cruise Control
-Spider-Man
-Spider-Man 2
-Spider-Man 3
+Spider Man
+Spider Man 2
+Spider Man 3
 Spirit Stallion of the Cimarron
 Splash
 The SpongeBob SquarePants Movie
@@ -2103,8 +2103,8 @@ Truman Show, The
 Tuck Everlasting 2002 film
 Twelve Monkeys
 Twilight
-The Twilight Saga Breaking Dawn - Part 1
-The Twilight Saga Breaking Dawn - Part 2
+The Twilight Saga Breaking Dawn   Part 1
+The Twilight Saga Breaking Dawn   Part 2
 The Twilight Saga Eclipse
 The Twilight Saga New Moon
 Twilight Zone The Movie
@@ -2174,9 +2174,9 @@ Waitress
 Walk Hard The Dewey Cox Story
 Walk the Line
 Walk to Remember, A
-WALL-E
+WALL E
 Wall Street
-Wallace & Gromit in The Curse of the Were-Rabbit
+Wallace & Gromit in The Curse of the Were Rabbit
 Wanted 2008
 War and Peace
 War, Inc
@@ -2252,7 +2252,7 @@ Working Girl
 World Is Not Enough, The
 World's Fastest Indian, The
 Wrath of the Titans
-Wreck-It Ralph
+Wreck It Ralph
 Wrestler, The
 Wristcutters A Love Story
 Written on the Wind
@@ -2261,11 +2261,11 @@ Wyatt Earp
 X edit 
 X Files I Want to Believe, The
 X Files Fight The Future, The
-X-Men
-X2 X-men 2
-X-Men First Class
-X-men The Last Stand
-X-Men Origins Wolverine
+X Men
+X2 X men 2
+X Men First Class
+X men The Last Stand
+X Men Origins Wolverine
 Xanadu
 xXx
 Y edit 
@@ -2310,7 +2310,7 @@ A Chinese Ghost Story Movie
 A Little Princess Sara
 A Little Snow Fairy Sugar
 A Tree of Palme
-A.D. Police: To Protect and Serve
+A.D. Police To Protect and Serve
 Abarenbou Rikishi!! Matsutarou
 Abenobashi Mahou Shotengai
 Abnormal Physiology Seminar, Hen Zemi OVA
@@ -2326,17 +2326,17 @@ Ah! My Goddess
 Ah! My Goddess 2011 OVA
 Ah! My Goddess Season 2
 Ah! My Goddess Season 3
-Ah! My Goddess: Everyone Has Wings
+Ah! My Goddess Everyone Has Wings
 Ah! My Mini Goddess
 Ai Mai Mi
-Ai Mai Mi: Mousou Catastrophe
+Ai Mai Mi Mousou Catastrophe
 Ai Mai! Moe Can Change!
 Ai no Kusabi
 Ai Shite Night
 Ai to Yuuki no Pig Girl Tonde Buurin/Super Pig
 Ai Yori Aoshi
 Ai Yori Aoshi Enishi
-AIKa R-16: Virgin Mission
+AIKa R 16 Virgin Mission
 AIKa ZERO
 Aikatsu!
 Aikatsu! 2
@@ -2354,7 +2354,7 @@ Akagi
 Akahori Gedou Hour Rabuge
 Akame ga Kill
 Akane Maniax
-Akane-Iro ni Somaru Saka
+Akane Iro ni Somaru Saka
 Akazukin Chacha
 AKB0048
 AKB0048 2nd Season
@@ -2366,7 +2366,7 @@ Aldnoah.Zero
 Alice Academy
 Alien 9
 All Purpose Cultural Cat Girl Nuku Nuku DASH!
-All Purpose Cultural Cat-Girl Nuku-Nuku
+All Purpose Cultural Cat Girl Nuku Nuku
 Allison & Lillia
 Amaenaideyo Katsu
 Amaenaideyo!!
@@ -2409,12 +2409,12 @@ Aoi Hana
 Aoi Sekai no Chuushin de
 Aoki Densetsu Shoot!
 Appleseed XIII
-Aquarian Age - Sign for Evolution
+Aquarian Age   Sign for Evolution
 Aquarion
 Aquarion Evol
 Arakawa Under the Bridge
 Arakawa Under the Bridge x Bridge
-Arashi no Yoru ni: Himitsu no Tomodachi
+Arashi no Yoru ni Himitsu no Tomodachi
 Arata Kangatari
 Arc the Lad
 Arcade Gamer Fubuki
@@ -2428,15 +2428,14 @@ Aria the Natural
 Aria the Origination
 Aria The Scarlett Ammo
 Arjuna
-Armed Librarians: The Book of Bantorra
+Armed Librarians The Book of Bantorra
 Armor Hunter Mellowlink
 Armored Trooper Votoms
-Armored Trooper Votoms: Case
-Irvine Movie
-Armored Trooper Votoms: Votoms Finder
+Armored Trooper Votoms Case; Irvine Movie
+Armored Trooper Votoms Votoms Finder
 Around the World in Eighty Days
-Arpeggio of Blue Steel: Ars Nova
-Arve Rezzle: Kikaijikake no Yoseitachi Special
+Arpeggio of Blue Steel Ars Nova
+Arve Rezzle Kikaijikake no Yoseitachi Special
 Asa Made Jugyou Chu!
 Asatte no Houkou
 Ashita e Free Kick
@@ -2456,9 +2455,9 @@ Attack on Titan OVA
 Attack on Titan Specials
 Aura Battler Dunbine
 Avatar The Last Air Bender
-Avatar: The Legend of Korra
-Avatar: The Legend of Korra Book 2 Spirit
-Avatar: The Legend of Korra Book 3 Change
+Avatar The Legend of Korra
+Avatar The Legend of Korra Book 2 Spirit
+Avatar The Legend of Korra Book 3 Change
 Avenger
 Axis Powers Hetalia
 Axis Powers Hetalia Movie
@@ -2468,8 +2467,8 @@ Ayatsuri Sakon
 Azumanga Daioh
 B Gata H Kei
 B't X
-B-Legend! Battle Bedaman
-Babel II: Beyond the Infinity
+B Legend! Battle Bedaman
+Babel II Beyond the Infinity
 Baby and Me
 Baby Princess 3D Paradise
 Baby Steps
@@ -2477,15 +2476,15 @@ Baccano
 Backstage Idol Story
 Baka to Test to Shoukanjuu
 Baka to Test to Shoukanjuu II
-Baka to Test to Shoukanjuu: Matsuri OVA
+Baka to Test to Shoukanjuu Matsuri OVA
 Bakegyamon
 Bakemonogatari
 Baki The Grappler
 Baku Tech! Bakugan
 Bakugan Battle Brawlers
-Bakugan Battle Brawlers: New Vestrioa
-Bakugan: Gundalian Invaders
-Bakugan: Mechtanium Surge
+Bakugan Battle Brawlers New Vestrioa
+Bakugan Gundalian Invaders
+Bakugan Mechtanium Surge
 Bakuman
 Bakuman 2
 Bakuman 3
@@ -2505,13 +2504,13 @@ BASToF Syndrome
 Batman
 Batman Beyond
 Batman The Brave and the Bold
-Battle B-Daman: Fire Spirits
+Battle B Daman Fire Spirits
 Battle Girls Time Paradox
 Battle Programmer SHIRASE
 Battle Spirits Brave
-Battle Spirits: Heroes
-Battle Spirits: Sword Eyes
-Bayonetta: Bloody Fate
+Battle Spirits Heroes
+Battle Spirits Sword Eyes
+Bayonetta Bloody Fate
 Beast Saga
 Beast Wars
 Beck
@@ -2520,13 +2519,13 @@ Beet the Vandel Buster
 Beet the Vandel Buster Excellion
 Ben 10
 Ben 10 Destroy All Aliens
-Ben-To
+Ben To
 Berserk
-Berserk Ougon Jidaihen I: Haou no Tamago
+Berserk Ougon Jidaihen I Haou no Tamago
 Betterman
 Beyblade
 Beyblade G Revolution
-Beyblade V-Force
+Beyblade V Force
 Bihada Ichizoku
 Binbou Shimai Monogatari
 Binbougami ga!
@@ -2534,7 +2533,7 @@ Biohunter OVA
 Birdy the Mighty
 Birdy the Mighty Decode
 Birdy the Mighty Decode S2
-Bishoujo Senshi Sailor Moon: Crystal
+Bishoujo Senshi Sailor Moon Crystal
 Black Blood Brothers
 Black Bullet
 Black Cat
@@ -2542,10 +2541,10 @@ Black Heaven
 Black Jack
 Black Jack 21
 Black Jack OVA
-Black Jack Special: The 4 Miracles of Life
+Black Jack Special The 4 Miracles of Life
 Black Lagoon
-Black Lagoon: Roberta's Blood Trail
-Black Lagoon: The Second Barrage
+Black Lagoon Roberta's Blood Trail
+Black Lagoon The Second Barrage
 Black★Rock Shooter
 Black★Rock Shooter (TV)
 Blade
@@ -2553,21 +2552,21 @@ Blade and Soul
 Blade of the Immortal
 Blame!
 Blassreiter
-BlazBlue: Alter Memory
+BlazBlue Alter Memory
 Bleach
 Bleach Movie
-Blood C: The Last Dark Movie
+Blood C The Last Dark Movie
 Blood Lad
 Blood+
-Blood-C
+Blood C
 Blue Dragon
-Blue Dragon: Tenkai no Shichi Ryuu
+Blue Dragon Tenkai no Shichi Ryuu
 Blue Drop
 Blue Gender
 Blue Meteor SPT Layzner
 Blue Seed
 Blue Submarine No. 6
-Bobobo-bo-bo-bobo
+Bobobo bo bo bobo
 Boku no Imouto wa Osaka Okan
 Boku wa Imouto ni Koi wo Suru
 Boku wa Tomodachi ga Sukunai
@@ -2575,8 +2574,8 @@ Boku wa Tomodachi ga Sukunai Next
 Bokura Ga Ita
 Bokura wa Minna Kawaisou
 Bokurano
-Bokusatsu Tenshi Dokuro-chan
-Bokusatsu tenshi Dokuro-chan 2
+Bokusatsu Tenshi Dokuro chan
+Bokusatsu tenshi Dokuro chan 2
 Bomberman Jetters
 Bonen no Xamdou
 Boogiepop Phantom
@@ -2593,7 +2592,7 @@ Break Blade (2014)
 Break Blade Movie
 Brothers Conflict
 Btooom!
-Bubblegum Crisis: Tokyo 2040
+Bubblegum Crisis Tokyo 2040
 Buddy Complex
 Bungaku Shoujo Memoir OVA
 Bungaku Shoujo Movie
@@ -2612,7 +2611,7 @@ Buzzer Beater 2007
 B’t X Neo
 C – The Money of Soul and Possibility Control
 C3
-C: The Money of Soul and Possibility Control
+C The Money of Soul and Possibility Control
 Campione!
 CANAAN
 Candidate for Goddess
@@ -2622,20 +2621,20 @@ Capeta
 Captain Earth
 Captain Tsubasa
 Captain Tsubasa J
-Captain Tsubasa: Road to 2002
+Captain Tsubasa Road to 2002
 Cardcaptor Sakura
 Cardfight!! Vanguard
-Cardfight!! Vanguard: Asia Circuit Hen
-Cardfight!! Vanguard: Legion Mate Hen
-Cardfight!! Vanguard: Link Joker hen
+Cardfight!! Vanguard Asia Circuit Hen
+Cardfight!! Vanguard Legion Mate Hen
+Cardfight!! Vanguard Link Joker hen
 Carnival Phantasm OVA
-Carried by the Wind: Tsukikage Ran
-Casshern : Robot Hunter(OVA)
+Carried by the Wind Tsukikage Ran
+Casshern  Robot Hunter(OVA)
 Casshern Sins
 Cat Shit One
 Cats Eye
 Centurions
-Chance: Pop Session
+Chance Pop Session
 CHAOS;HEAD
 Charady’s Daily Joke
 Cheeky Angel
@@ -2655,11 +2654,11 @@ Chocotto Sister
 Chokotan!
 Choujigen Game Neptune The Animation
 Chousoku Henkei Gyrozetter
-Chouyaku Hyakuninisshu: Uta Koi
+Chouyaku Hyakuninisshu Uta Koi
 Chrno Crusade
 Chrome Shelled Regios
 Chrono Crusade
-Chu-Bra!
+Chu Bra!
 Chuunibyou demo Koi ga Shitai!
 Chuunibyou demo Koi ga Shitai! Lite
 Chuunibyou demo Koi ga Shitai! Ren
@@ -2674,23 +2673,23 @@ Cluster Edge
 Cobra the Animation
 Code Breaker
 Code Geass R2
-Code Geass: Boukoku no Akito
-Code Geass: Lelouch of the Rebellion
+Code Geass Boukoku no Akito
+Code Geass Lelouch of the Rebellion
 Code Lyoko
-Code-E
+Code E
 Colorful
 Colorful Movie
 Comic Party
 Comic Party Revolution
 Compiler
-Computer Kakumei: Saikyou x Saisoku no Zunou Tanjou
+Computer Kakumei Saikyou x Saisoku no Zunou Tanjou
 Condor Hero
 Cooking master boy
 Copihan
 Coppelion TV
-Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou OVA
+Corpse Party Tortured Souls   Bougyakusareta Tamashii no Jukyou OVA
 Corrector Yui
-Cosmic Baton Girl Comet-san
+Cosmic Baton Girl Comet san
 Cosmopolitan Prayers
 Cosplay Complex OVA
 Cowboy Bebop
@@ -2700,8 +2699,8 @@ Crayon Shin Chan
 Crescent Love
 Crest of the Stars
 Cromartie High School
-Cross Fight B-Daman
-Cross Fight B-Daman eS
+Cross Fight B Daman
+Cross Fight B Daman eS
 Cross Game
 Crying Freeman
 Crystal Blaze
@@ -2710,21 +2709,21 @@ Cuticle Tantei Inaba
 Cyber City OEDO 808
 Cyborg 009 The Cyborg Soldier
 Cyclops Shoujo Saipu OVA
-D-Frag!
-D. Gray-Man
+D Frag!
+D. Gray Man
 Da Capo
 Da Capo II
 Da Capo III
 Daa! Daa! Daa!
 Daddy Long Legs
-Dai-Guard
+Dai Guard
 Daily Lives of High School Boys
 Dakara Boku wa H ga Dekinai
 Dan Doh!!
 Danball Senki W
 Dance In The Vampire Bund
 Danchi Tomoo
-Dangan Ronpa: The Animation
+Dangan Ronpa The Animation
 Danny Phantom
 Dansai Bunri no Crime Edge
 Danshi Koukousei no Nichijou
@@ -2732,7 +2731,7 @@ Dantalian no Shoka
 Daphne in the Brilliant Blue
 Darker Than Black
 Darker than BLACK Season 2
-Darker Than Black: Gaiden
+Darker Than Black Gaiden
 Date A Live
 Date A Live II
 Dazzle
@@ -2776,22 +2775,22 @@ Digimon Savers
 Digimon Tamers
 Digimon Xros Wars
 Dinosaur King
-Dinozaurs: The Series
+Dinozaurs The Series
 Dirty Pair
-Disk Wars: Avengers
+Disk Wars Avengers
 Divergence Eve
 DN Angel
 DNA²
 Dog Days
 Dog Days 2
-Dogs: Bullets and Carnage OVA
+Dogs Bullets and Carnage OVA
 Doki Doki School Hours
 Doki Doki! Precure
 Doraemon
-Doraemon Movie: Nobitas Great Mermaid Naval Battle
+Doraemon Movie Nobitas Great Mermaid Naval Battle
 Dororon Enma kun Meeramera
 Double Circle
-Double-J
+Double J
 Doubutsu No Mori
 Doujin Work
 Dr. Slump
@@ -2801,7 +2800,7 @@ Dragon Collection
 Dragon Crisis!
 Dragon Drive
 Dragon Half OVA
-Dragon Quest: Dai no Daiboken
+Dragon Quest Dai no Daiboken
 Dragonaut
 Dragonaut the Resonance
 Dragonball
@@ -2819,13 +2818,13 @@ Durarara!!
 Dusk Maiden of Amnesia
 E/s Otherwise
 Earl and Fairy
-Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu
+Ebiten Kouritsu Ebisugawa Koukou Tenmonbu
 Eden of the East
 Eden’s Bowy
-Ef - A Tale Of Memories
-Ef: A Tale of Melodies
+Ef   A Tale Of Memories
+Ef A Tale of Melodies
 Eiken OVA
-Eiyuu Densetsu: Sora no Kiseki OVA
+Eiyuu Densetsu Sora no Kiseki OVA
 El Cazador de la Bruja
 El Hazard
 El Hazard 2 Magnificant World 2
@@ -2833,12 +2832,12 @@ El Hazard Alternative world
 Element Hunters
 Elemental Gelade
 Elfen Lied
-Emma - A Victorian Romance
-Emma: A Victorian Romance Second Act
+Emma   A Victorian Romance
+Emma A Victorian Romance Second Act
 Erementar Gerad
 Ergo Proxy
 Escaflowne
-Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi
+Escha & Logy no Atelier Tasogare no Sora no Renkinjutsushi
 Eureka Seven
 Eureka Seven AO
 Evangelion Movies
@@ -2860,29 +2859,29 @@ Fate/kaleid liner Prisma Illya 2wei
 Fate/kaleid liner Prisma Illya Specials
 Fate/kaleid liner Prisma☆Illya OVA
 Fate/Prototype
-Fate/stay night: Unlimited Blade Works
+Fate/stay night Unlimited Blade Works
 Fate/zero
 Fate/Zero Season 2
-FF VII: Advent Children Movie
-Fight Ippatsu! Juuden-Chan!!
+FF VII Advent Children Movie
+Fight Ippatsu! Juuden Chan!!
 Fighting Beauty Wulong
 Fighting Beauty Wulong Rebirth
 Figure 17
 Final Approach
 Final Fantasy Legend of the Crystals
-Final Fantasy VII: Denzel
-Final Fantasy VII: Last Order
-Final Fantasy: Unlimited
+Final Fantasy VII Denzel
+Final Fantasy VII Last Order
+Final Fantasy Unlimited
 Fireball Charming
 Fist of the North Star
 Flame of Recca
 Fly High
 Folktales from Japan
 Fooly Cooly
-Fortune Arterial: Akai Yakusoku
+Fortune Arterial Akai Yakusoku
 Fractale
-Francesca: Girls Be Ambitious
-Free - Iwatobi Swim Club
+Francesca Girls Be Ambitious
+Free   Iwatobi Swim Club
 Free Eternal Summer
 Freedom
 Freezing
@@ -2891,17 +2890,17 @@ Fresh Pretty Cure
 Fruits Basket
 Full Metal Alchemist
 Full Metal Alchemist Movie
-Full Metal Alchemist: Brotherhood
+Full Metal Alchemist Brotherhood
 Full Metal Panic!
 Full Metal Panic! The Second Raid
 Full Metal Panic? Fumoffu
 Full Moon wo Sagashite
 Fullmetal Alchemist Blind Alchemist
-Fullmetal Alchemist: The Sacred Star of Milos
-Furusato Saisei: Nihon no Mukashi Banashi
+Fullmetal Alchemist The Sacred Star of Milos
+Furusato Saisei Nihon no Mukashi Banashi
 Fuse Teppou Musume no Torimonochou Movie
 Fushigi Yuugi
-Fushigi Yuugi - The Mysterious Play
+Fushigi Yuugi   The Mysterious Play
 Fushigiboshi no Futago Hime
 Futakoi
 Futakoi Alternative
@@ -2911,10 +2910,10 @@ Future Boy Conan
 Future Card Buddyfight
 Future GPX Cyber Formula
 Fuun Ishin Dai Shogun
-G-Gundam
-G-on Riders
-Ga-Rei Zero
-GA: Geijutsuka Art Design Class
+G Gundam
+G on Riders
+Ga Rei Zero
+GA Geijutsuka Art Design Class
 Gad Guard
 Gaiking
 Gaist Crusher
@@ -2942,7 +2941,7 @@ Gate keepers
 gdgd Fairies 2
 Gear Fighter Dendoh
 Gekito! Crush Gear Turbo
-Gekkan Shoujo Nozaki-kun
+Gekkan Shoujo Nozaki kun
 Genei wo Kakeru Taiyou
 Geneshaft
 Genesis Climber Mospeada
@@ -2957,7 +2956,7 @@ Ghost Hound
 Ghost Hunt
 Ghost in the Shell Movies
 Ghost in the Shell SAC
-Ghost in the Shell:SAC The 2nd Gig
+Ghost in the ShellSAC The 2nd Gig
 Ghost Slayers Ayashi
 Ghost Stories
 Ghost sweeper mikami
@@ -2970,13 +2969,13 @@ Gin no Saji 2nd Season
 Ginban Kaleidoscope
 Ginga Densetsu Weed
 Ginga e Kickoff!!
-Ginga Kikoutai: Majestic Prince
+Ginga Kikoutai Majestic Prince
 Ginga Nagareboshi Gin
 Gingitsune
 Giniro no Olynssis
 Gintama
-Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
-Gintama: Shinyaku Benizakura-hen
+Gintama Kanketsu hen   Yorozuya yo Eien Nare
+Gintama Shinyaku Benizakura hen
 Girls Bravo
 Girls und Panzer
 GJ bu
@@ -3002,8 +3001,8 @@ Golden Time
 Golgo 13
 Gon
 Good Witch of the West
-Goshuusho-sama Ninomiya-kun
-Goshuushou-sama Ninomiya-kun
+Goshuusho sama Ninomiya kun
+Goshuushou sama Ninomiya kun
 Gosick
 Goulart Knights Evoked The Beginning Black OVA
 Grasshoppa!
@@ -3023,7 +3022,7 @@ Gunbuster
 Gunbuster 2
 Gundam 00 Season 1
 Gundam 00 Season 2
-Gundam 00 The Movie: A Wakening of the Trailblazer
+Gundam 00 The Movie A Wakening of the Trailblazer
 Gundam Build Fighters
 Gundam Seed
 Gundam Seed Destiny
@@ -3033,27 +3032,27 @@ Gundam Wing
 Gungrave
 Gunparade March
 Gunslinger Girl
-Gunslinger Girl -Il Teatrino-
+Gunslinger Girl  Il Teatrino 
 Gunsmith Cats
 Guyver
-Guyver: The Bioboosted Armor
+Guyver The Bioboosted Armor
 H2
-H2O: Footprints in the Sand
+H2O Footprints in the Sand
 Hagure Yuusha no Estetica
 Haibane Renmei
 Haikyuu!!
 Haitai Nana Fa
 Haitai Nanafa 2nd Season
-Haiyore! Nyaruko-san W
-Haiyoru! Nyaruani: Remember My Mr Lovecraft
-Haiyoru! Nyaruko-san
+Haiyore! Nyaruko san W
+Haiyoru! Nyaruani Remember My Mr Lovecraft
+Haiyoru! Nyaruko san
 Hajime no Ippo
-Hajime no Ippo: New Challenger
-Hajime no Ippo: Rising
+Hajime no Ippo New Challenger
+Hajime no Ippo Rising
 Hakaba Kitaro
-Hakkenden: Touhou Hakken Ibun
-Hakkenden: Touhou Hakken Ibun 2
-Hakugin no Ishi: Argevollen
+Hakkenden Touhou Hakken Ibun
+Hakkenden Touhou Hakken Ibun 2
+Hakugin no Ishi Argevollen
 Hakuouki
 Hakuouki Hekketsuroku
 Hakuouki Reimeiroku
@@ -3069,8 +3068,8 @@ Hanamonogatari
 Hanasakeru Seishounen
 Hanasaku Iroha
 Hanaukyo Maid Team
-Hanaukyo Maid Team: La Verite
-Hanayaka Nari, Waga Ichizoku: Kinetograph
+Hanaukyo Maid Team La Verite
+Hanayaka Nari, Waga Ichizoku Kinetograph
 Hanayamata
 Hanbun no Tsuki ga Noboru Sora
 Hand Maid May
@@ -3086,9 +3085,9 @@ Happy World
 Haré+Guu
 Haré+Guu DELUXE
 Haré+Guu FINAL
-Haruka: Beyond the Stream of Time
+Haruka Beyond the Stream of Time
 Harukanaru Toki no Naka de
-Hataraku Maou-sama!
+Hataraku Maou sama!
 Hatenkou Yuugi
 Hatsukoi Limited
 Haunted Junction
@@ -3096,7 +3095,7 @@ Hayate No Gotoku
 Hayate No Gotoku Season 2
 Hayate No Gotoku! Cant Take My Eyes Off You
 Hayate no Gotoku! Cuties
-Hayate no Gotoku! Movie: Heaven Is a Place on Earth
+Hayate no Gotoku! Movie Heaven Is a Place on Earth
 He is My Master
 Heartcatch Precure!
 Heartcatch Precure! Hana no To de Fashion Show Desu ka!?
@@ -3106,7 +3105,7 @@ Heavy Gear
 Hell Teacher Nube
 Hellsing
 Hellsing Ultimate
-Hellsing: The Dawn Special
+Hellsing The Dawn Special
 Hen Zemi
 Hentai Ouji to Warawanai Neko
 Hentai Ouji to Warawanai Neko. Specials
@@ -3115,11 +3114,11 @@ Hero Bank
 Hero Tales
 Heroic Age
 Heroman
-Hetalia: The Beautiful World
+Hetalia The Beautiful World
 Hidamari Sketch
 Hidamari Sketch x Honeycomb
 Hidamari Sketch × Hoshimittsu
-Hidamari Sketch: Sae Hiro Sotsugyou-hen
+Hidamari Sketch Sae Hiro Sotsugyou hen
 Hidamari Sketch×365
 Higepiyo
 High School DxD
@@ -3130,7 +3129,7 @@ High Score
 Higurashi no Naku Koro ni
 Higurashi No Naku Koro Ni Kai
 Higurashi no Naku Koro ni Kaku
-Higurashi no Naku Koro ni Kaku: Outbreak
+Higurashi no Naku Koro ni Kaku Outbreak
 Higurashi no Naku Koro ni Kira
 Higurashi No Naku Koro Ni Rei
 Hiiro no Kakera
@@ -3141,7 +3140,7 @@ Himawari Season 2
 Hime Chen! Otogi Chikku Idol Lilpri
 Himegoto
 Himitsu Kessha Taka no Tsume Neo
-Himitsu: The Revelation
+Himitsu The Revelation
 Histories Strongest Disciple Kenichi
 Historys Strongest Disciple Kenichi OVA
 Hit wo Nerae! aka Smash Hit
@@ -3154,7 +3153,7 @@ Hokuto no Ken Raoh Gaiden
 Holy Knight
 Honey and Clover
 Honey and Clover II
-Honta ni Atta! Reiba-Sensei
+Honta ni Atta! Reiba Sensei
 Hoozuki no Reitetsu
 Hoshi no Kaabii
 Hoshi no Kirby
@@ -3165,15 +3164,15 @@ Hourglass of Summer
 Hourou Musuko
 House of Five Leaves
 Howl’s Moving Castle The Movie
-Hungry Heart: Wild Striker
+Hungry Heart Wild Striker
 Hunter X Hunter
 Hunter x Hunter 2011
 Hunter X Hunter OVA Episodes
-Hunter x Hunter: Phantom Rouge Movie
-Hunter x Hunter: The Last Mission
-Huntik: Secrets & Seekers
+Hunter x Hunter Phantom Rouge Movie
+Hunter x Hunter The Last Mission
+Huntik Secrets & Seekers
 Hyakka Ryoran Samurai Girls
-Hyakka Ryouran: Samurai Bride
+Hyakka Ryouran Samurai Bride
 Hyakko
 Hyoka
 Hyougemono
@@ -3182,28 +3181,28 @@ Hyper Police
 I My Me Strawberry egg
 I My Me! Strawberry Eggs
 I”s (OVA)
-Ichi The Killer: Episode 0
+Ichi The Killer Episode 0
 Ichiban Ushiro no Daimaou
 Ichigo 100%
 Ichigo Mashimaro
 Ichigo Mashimaro Encore
 Idaten Jump
 Idol Project
-IDOLM@STER: XENOGLOSSIA
+IDOLM@STER XENOGLOSSIA
 Ie Naki Ko
 Igano Kabamaru
-Ikeike! Momon-chan
+Ikeike! Momon chan
 Ikki Tousen
-Ikki Tousen: Great Guardians
-Ikki Tousen: Dragon Destiny
+Ikki Tousen Great Guardians
+Ikki Tousen Dragon Destiny
 Ikkitousen Xtreme Xecutor
 Ikoku Meiro no Croisee
 Immortal Grand Prix
 Inari, Konkon, Koi Iroha.
 Inazuma Eleven
 Inazuma Eleven Go
-Inazuma Eleven Go 2: Chrono Stone
-Inazuma Eleven Go: Galaxy
+Inazuma Eleven Go 2 Chrono Stone
+Inazuma Eleven Go Galaxy
 Inferno Cop
 Infinite Ryvius
 Initial D
@@ -3215,20 +3214,19 @@ Initial D Third Stage
 Innocent Venus
 Inu to Hasami wa Tsukaiyou
 Inu x Boku SS
-Inugami-san to Nekoyama-san
+Inugami san to Nekoyama san
 Inukami!
 Inuyasha
 Inuyasha Movies
-Inuyasha: The Final Act
+Inuyasha The Final Act
 Ippatsu Hicchuu!! Devander OVA
-Iria - Zeiram the Animation OVA
-Iriya no Sora 
-UFO no Natsu
+Iria   Zeiram the Animation OVA
+Iriya no Sora ; UFO no Natsu
 Iron Man
-Iron Man: Armored Adventures
+Iron Man Armored Adventures
 Irresponsible Captain Tylor
-IS: Infinite Stratos
-IS: Infinite Stratos 2
+IS Infinite Stratos
+IS Infinite Stratos 2
 Isekai no Seikishi Monogatari
 Ishida to Asakura
 Isshoni training
@@ -3236,7 +3234,7 @@ Isshuukan Friends.
 Itazura na Kiss
 Itsuka Tenma no Kuro Usagi
 Ixion Saga DT
-Izumo: Takeki Tsurugi no Senki
+Izumo Takeki Tsurugi no Senki
 I\'\'s OVA
 I”S Pure
 Jackie Chan Adventures
@@ -3253,14 +3251,14 @@ Jinrui wa Suitai Shimashita
 Jinsei
 Jojo's Bizzare Adventure
 JoJos Bizarre Adventure
-JoJo\'s Bizarre Adventure: Stardust Crusaders
+JoJo\'s Bizarre Adventure Stardust Crusaders
 Jonny Quest (90s)
 Jormungand
-Jormungand: Perfect Order
+Jormungand Perfect Order
 Joshiraku
 Joujuu Senjin!! Mushibugyou
-Jubei-chan
-Jungle Book: Shounen Mowgli
+Jubei chan
+Jungle Book Shounen Mowgli
 Jungle De Ikou!
 Junjo Romantica
 Junjou Romantica S2
@@ -3270,25 +3268,25 @@ Juusen Battle Monsuno
 Jyu Oh Sei
 Jyushin Enbu Hero Tales
 K Anime
-K-ON!
-K-On! Movie
-K-ON!! Season 2
+K ON!
+K On! Movie
+K ON!! Season 2
 Kagaku na Yatsura OVA
 Kage Kara Mamoru
 Kagihime Monogatari Eikyuu Alice Rondo
 Kaiba
-Kaicho wa Maid-sama!
-Kaichou wa Maid-sama
+Kaicho wa Maid sama!
+Kaichou wa Maid sama
 Kaichuu!
 Kaidan Restaurant
 Kaiji
-Kaiji: Hakairoku Hen
+Kaiji Hakairoku Hen
 Kaikan Phrase
 Kaiketsu Zorori
 Kaitou Reinya
 Kaitou Saint Tail
 Kaitou Tenshi Twin Angel OVA
-Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!
+Kaitou Tenshi Twin Angel Kyun Kyun Tokimeki Paradise!!
 Kakumeiki Valvrave 2nd Season
 Kakutou Bijin Wulong
 Kaleido Star
@@ -3314,14 +3312,14 @@ Kanon 2002
 Kanon 2006
 Kantoku Fuyuki Todoki
 Kara no Kyoukai
-Kara no Kyoukai: Mirai Fukuin
-Kara no Kyoukai: Mirai Fukuin - extra chorus
+Kara no Kyoukai Mirai Fukuin
+Kara no Kyoukai Mirai Fukuin   extra chorus
 Karas (OVA)
 Karas The Prophecy (OVA)
 kare kano
 Karin
 Karneval
-Kashimashi: Girl Meets Girl
+Kashimashi Girl Meets Girl
 Kasimasi – Girl Meets Girl
 Katanagatari
 Kateikyoushi Hitman Reborn
@@ -3342,10 +3340,10 @@ Kenya Boy
 Kenyuu Densetsu Yaiba
 Kenzen Robo Daimidaler
 Keroro Gunso
-Ketsuekigata-kun!
+Ketsuekigata kun!
 Kiba
-Kick-Heart Movie
-Kiddy Girl-and
+Kick Heart Movie
+Kiddy Girl and
 Kiddy Grade
 Kigurumikku
 Kill La Kill
@@ -3362,20 +3360,20 @@ Kimikiss Pure Rouge
 Kindaichi Shounen no Jikenbo Returns
 King of Bandit Jing
 King of Fighters
-King of Fighters: Another Day
+King of Fighters Another Day
 King of the Bandit Jing
 King of Thorn Movie
 Kingdom
 Kingdom 2nd Season
 Kiniro Mosaic
 Kiniro no Corda ~secondo passo~
-Kino No Tabi: The Beautiful World
+Kino No Tabi The Beautiful World
 Kinos Journey
 Kirarin Revolution
 Kirby Right Back At Ya!
 Kirepapa OVA
 Kishin Taisen Gigantic Formula
-Kiss Dum: Engage Planet
+Kiss Dum Engage Planet
 Kiss x Sis OVA
 Kiss × sis
 Kitakubu Katsudou Kiroku
@@ -3395,7 +3393,7 @@ Koi Sento OVA
 Koi Suru Tenshi Angelique
 Koi Suru Tenshi Angelique S2
 Koi to Senkyo to Chocolate
-Koi-ken!
+Koi ken!
 Koihime Musou
 Kokoro Connect
 Kokoro Library
@@ -3405,28 +3403,28 @@ Kono Minikuku
 Kono Naka ni Hitori, Imouto ga Iru!
 Kore wa Zombie Desu ka
 Kore wa Zombie Desu ka? of the Dead
-Koroshiya-san: The Hired Gun
+Koroshiya san The Hired Gun
 Kotetsushin Jeeg
 Kotonoha no Niwa Movie
-Kotoura-san
+Kotoura san
 Koutetsu Sangokushi
 Kowarekake no Orgol OVA
 Kuchu Buranko
 Kujibiki Unbalance
 Kuragehime
 Kurau Phantom Memory
-Kure-nai
-Kure-nai OVA
+Kure nai
+Kure nai OVA
 Kurogane no Linebarrels
 Kurokami The Animation
 Kuroko no Basket 2
 Kuroko no Basuke
-Kuromajo-san ga Tooru!!
-Kuromajo-san ga Tooru!! 2
-Kuromajyo-san ga Touru!!
+Kuromajo san ga Tooru!!
+Kuromajo san ga Tooru!! 2
+Kuromajyo san ga Touru!!
 Kuroshitsuji
 Kuroshitsuji II
-Kuroshitsuji: Book of Circus
+Kuroshitsuji Book of Circus
 Kurozuka
 Kuttsukiboshi OVA
 Kuuchuu Buranko
@@ -3438,7 +3436,7 @@ Kyou Kara Maou! 3rd Season
 Kyou Kara Ore Wa!!
 Kyou no Go no Ni
 Kyoukai no Kanata
-Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami
+Kyoukai no Kanata Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami
 Kyoukai Senjou no Horizon
 Kyoukai Senjou no Horizon 2
 Kyouran Kazoku Nikki
@@ -3450,7 +3448,7 @@ Labyrinth of Flames
 Ladies vs Butlers!
 Lamune
 Last Exile
-Last Exile: Ginyoku no Fam
+Last Exile Ginyoku no Fam
 Law of Ueki
 Le Chevalier D’Eon
 Le Portrait de Petit Cossette
@@ -3461,23 +3459,23 @@ Legend of Himiko
 Legend of the Galactic Heroes
 Legend of the Mystical Ninja
 Legendary Gambler Tetsuya
-Legendz: Yomigaeru Ryuuou Densetsu
+Legendz Yomigaeru Ryuuou Densetsu
 Lemon Angel Project
-Les Miserables: Shoujo Cosette
+Les Miserables Shoujo Cosette
 Let's & go
 Letter Bee
-Letter Bee Academy: Specials
+Letter Bee Academy Specials
 Letter Bee REVERSE
-Letter Bee: Reverse
+Letter Bee Reverse
 Level E
 Library War
-Line Offline: Salaryman
+Line Offline Salaryman
 Linetown
 Listen to Me, Girls. I Am Your Father!
 Litchi DE Hikari Club
 Little Busters!
 Little Busters! Refrain
-Little Busters!: EX
+Little Busters! EX
 Little Witch Academia Special
 Log Horizon
 Lost Universe
@@ -3486,7 +3484,7 @@ Love Get Chu
 Love Hina
 Love Lab
 Love Live! School Idol Project 2
-Love Live!: School Idol Project
+Love Live! School Idol Project
 Love Love?
 Love Stage
 LoveCom
@@ -3496,21 +3494,21 @@ Lovely Detective Labyrinth
 Lovely Idol
 Lucky Star
 Lupin III
-Lupin III: Part II
-Lupin the Third: Mine Fujiko to Iu Onna
-M3: Sono Kuroki Hagane
+Lupin III Part II
+Lupin the Third Mine Fujiko to Iu Onna
+M3 Sono Kuroki Hagane
 Maburaho
 Macademi Wasshoi
-Machine-Doll wa Kizutsukanai
+Machine Doll wa Kizutsukanai
 Macross 7
 Macross Frontier
-Macross Frontier: The Wings of Goodbye
+Macross Frontier The Wings of Goodbye
 Macross Fufonfia
 Macross Plus
 Macross Zero
 Madlax
 Magi
-Magi: The Labyrinth of Magic 2
+Magi The Labyrinth of Magic 2
 Magic Knight Rayearth
 Magic Knight Rayearth 2
 Magic User’s Club OVA
@@ -3524,10 +3522,10 @@ Magical Girl Pretty Sammy
 Magical Kanan
 Magical Pokan
 Magikano
-Mahō Tsukai ni Taisetsu na Koto: Natsu no Sora
+Mahō Tsukai ni Taisetsu na Koto Natsu no Sora
 Mahoraba Heartful Days
 Mahoromatic S2
-Mahoromatic: Automatic Maiden
+Mahoromatic Automatic Maiden
 Mahou no Chocolate OVA
 Mahou Sensei Negima! Shiroki Tsubasa Ala Alba
 Mahou Sensou
@@ -3539,43 +3537,43 @@ Mai HiMe
 Mai Otome
 Maido Urayasu Tekkin Kazoku
 Maison Ikkoku
-Maji de Otaku na English! Ribbon-chan
-Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo
-Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo TV
+Maji de Otaku na English! Ribbon chan
+Maji de Otaku na English! Ribbon chan Eigo de Tatakau Mahou Shoujo
+Maji de Otaku na English! Ribbon chan Eigo de Tatakau Mahou Shoujo TV
 Maji de Watashi ni Koi Shinasai!
 Majimoji Rurumo
 Majin Bone
 Majin Tantei Nōgami Neuro
 Majokko Shimai no Yoyo to Nene
 Major
-Makai Ouji: Devils and Realist
+Makai Ouji Devils and Realist
 Makai Senki Disgaea
-Maken-Ki!
-Maken-Ki! Two
-Mamoru-kun ni Megami no Shukufuku wo!
+Maken Ki!
+Maken Ki! Two
+Mamoru kun ni Megami no Shukufuku wo!
 Mamotte Shugogetten
-Mangaka-san to Assistant-san
+Mangaka san to Assistant san
 Mangirl!
 Manyuu Hikenchou
 Maoyuu Maou Yuusha
 Maple Story
 MAR
 Marchen Awakens Romance
-Mardock Scramble Movie: The First Compression
+Mardock Scramble Movie The First Compression
 Marginal Prince
 Maria Holic Alive
-Maria-sama Ga Miteru
-Maria-sama ga Miteru 3rd Season
-Maria-sama Ga Miteru Haru (2nd season)
-Maria-sama ga Miteru Season 4
+Maria sama Ga Miteru
+Maria sama ga Miteru 3rd Season
+Maria sama Ga Miteru Haru (2nd season)
+Maria sama ga Miteru Season 4
 Maria†Holic
 Marie & Gali
-Marimo no Hana: Saikyou Butouha Shougakusei Densetsu
+Marimo no Hana Saikyou Butouha Shougakusei Densetsu
 Marmalade Boy
 Mars of Destruction
 Martian Successor Nadesico
-Mashiroiro Symphony: Love Is Pure White
-Master of Epic: The Animation Age
+Mashiroiro Symphony Love Is Pure White
+Master of Epic The Animation Age
 Matantei Loki Ragnarok
 Mawaru Penguindrum
 Mayo Chiki!
@@ -3605,10 +3603,10 @@ Michiko to Hatchin
 Midori Days
 Midori No Hibi
 Mikakunin de Shinkoukei
-Minami-ke
-Minami-ke Okaeri
-Minami-ke Okawari
-Minami-ke Tadaima
+Minami ke
+Minami ke Okaeri
+Minami ke Okawari
+Minami ke Tadaima
 Minna Atsumare! Falcom Gakuen
 Miracle Girls
 Miracle Mimika
@@ -3619,12 +3617,12 @@ Mirai Nikki OVA
 Mirmo Zibang
 Misaki Chronicles
 Miss Monochrome
-Mission-E
+Mission E
 Mister Ajikko
 Mitsudomoe
 Mitsudomoe Zouryouchuu
 Mitsuwano
-Miyakawa-ke no Kuufuku
+Miyakawa ke no Kuufuku
 Mizu no Kotoba
 Mizuiro
 Mizuiro Jidai
@@ -3641,23 +3639,23 @@ Mokke
 Momo e no Tegami
 Momo Kyun Sword
 Momoiro Sisters
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
+Mondaiji tachi ga Isekai kara Kuru Sou Desu yo?
 Monkey Magic
 Monochrome Factor
-Monogatari Series: Second Season
+Monogatari Series Second Season
 Mononoke
 Monster
 Monster Princess
 Monster Princess OVA
 Monster Rancher
 Moonlight Mile
-Moonlight Mile: Touch Down
+Moonlight Mile Touch Down
 MoonPhase
 Moretsu Pirates
 Moribito – Guardian of the Spirit
-Morita-san wa Mukuchi
+Morita san wa Mukuchi
 Moshidora
-Motto To Love-Ru Trouble
+Motto To Love Ru Trouble
 Motto! Ojamajo Doremi
 Mouretsu Uchuu Kaizoku
 Mouryou no Hako
@@ -3666,15 +3664,15 @@ Moyashimon
 Moyashimon Returns
 Munto TV
 Murder Princess
-Mushi-Uta
+Mushi Uta
 Mushishi
 Mushishi Zoku Shou
-Muv Luv Alternative: Total Eclipse
+Muv Luv Alternative Total Eclipse
 My Little Sister Cant Be This Cute
 My Little Sister Cant Be This Cute 2
 My Wife is a High School Girl
-My-Otome
-My-Otome Zwei
+My Otome
+My Otome Zwei
 Myself Yourself
 Nabari no Ou
 Nadia Secret of Blue Water
@@ -3683,7 +3681,7 @@ Nagasarete Airantou
 Nagi no Asukara
 Naisho no Tsubomi
 Najica Blitz Tactics
-Namiuchigiwa no Muromi-san
+Namiuchigiwa no Muromi san
 Nana
 Nanaka 6/17
 Nanatsuiro Drops
@@ -3691,13 +3689,13 @@ Nandaka Velonica
 NaruTaru
 Naruto
 Naruto Movie
-Naruto SD: Rock Lee no Seishun Full-Power Ninden
+Naruto SD Rock Lee no Seishun Full Power Ninden
 Naruto Shippuden
 Naruto Shippuuden Movie
 Natsu no Arashi
 Natsu no Arashi! Akinaichuu Season 2
 Natsuiro Kiseki
-Natsume Yuujin-chou
+Natsume Yuujin chou
 Natsume Yuujinchou San
 Natsume Yuujinchou Shi
 Natsuyuki Rendezvous
@@ -3708,9 +3706,9 @@ Negima! Mou Hitotsu No Sekai
 Negima!?
 Negima!? 2
 Nekogami Yaoyorozu
-Nekomonogatari: Kuro
+Nekomonogatari Kuro
 Neo Angelique Abyss
-Neo Angelique Abyss -Second Age-
+Neo Angelique Abyss  Second Age 
 Neo Ranga
 Neon Genesis Evangelion
 Neppuu Kairiku Bushi Road Special
@@ -3723,8 +3721,8 @@ Nichijou
 NieA Under 7
 Night Head Genesis
 Night Wizard
-Nightwalker: The Midnight Detective
-Nijiiro Hotaru: Eien no Natsuyasumi Movie
+Nightwalker The Midnight Detective
+Nijiiro Hotaru Eien no Natsuyasumi Movie
 Nijuu Mensou no Musume
 Ninja Nonsense
 Ninja Scroll
@@ -3738,11 +3736,11 @@ Nobunaga the Fool
 Nobunagun
 Nodame Cantabile
 Nodame Cantabile Paris
-Nodame Cantabile: Finale
+Nodame Cantabile Finale
 Noein
 Nogizaka Haruka no Himitsu
-Nogizaka Haruka no Himitsu 2: Purezza
-Nogizaka Haruka no Himitsu: Finale
+Nogizaka Haruka no Himitsu 2 Purezza
+Nogizaka Haruka no Himitsu Finale
 Noir
 Non Non Biyori
 Noragami
@@ -3755,8 +3753,8 @@ Nurarihyon no Mago
 Nurarihyon no Mago II
 Nyan Koi!
 Nyanpire the Animation
-Nyoron Churuya-san
-Oban Star-Racers
+Nyoron Churuya san
+Oban Star Racers
 Occult Academy
 Oda Nobuna no Yabou
 Oh! Edo Rocket
@@ -3766,7 +3764,7 @@ Ojamajo Doremi Dokkaan!
 Ojamajo Doremi Sharp
 Okamikakushi
 Okane ga Nai
-Okusama wa Mahou Shoujo: Bewitched Agnes
+Okusama wa Mahou Shoujo Bewitched Agnes
 Omamori Himari
 One Off
 One Off OVA
@@ -3775,25 +3773,25 @@ One Piece
 One Piece Movies
 One Piece Special
 One Piece Specials
-One: Kagayaku Kisetsu e
-Onee-chan ga Kita
+One Kagayaku Kisetsu e
+Onee chan ga Kita
 Onegai my melody
 Onegai Teacher
 Onegai Twins
 OniAi
 Onigamiden
-Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne
-Onii-sama e...
+Onii chan Dakedo Ai Sae Areba Kankeinai yo ne
+Onii sama e...
 Oniichan no Koto Nanka Zenzen Suki Janain Dakara ne!!
 Onmyō Taisenki
 Ontama!
 Ookami Kakushi
 Ookami Kodomo no Ame to Yuki Movie
-Ookami-san to Shichinin no Nakama-tachi
+Ookami san to Shichinin no Nakama tachi
 Ookiku Furikabutte
-Ookiku Furikabutte ~Natsu no Taikai-hen~
+Ookiku Furikabutte ~Natsu no Taikai hen~
 Ore no Kanojo to Osananajimi ga Shuraba Sugiru
-Ore-sama Kingdom OVA
+Ore sama Kingdom OVA
 Oreca Battle
 Oregairu
 Oreimo
@@ -3806,7 +3804,7 @@ Oruchuban Ebichu
 Oshiri Kajiri Mushi (TV)
 Others
 Otogi Zoshi
-Otogi-Jushi Akazukin
+Otogi Jushi Akazukin
 Otome Nadeshiko Koi Techou
 Otome wa Boku ni Koishiteru
 Otome Youkai Zakuro
@@ -3825,33 +3823,33 @@ Paprika
 Paradise Kiss
 Paranoia Agent
 Patalliro Saiyuki!
-Patlabor - The Mobile Police
+Patlabor   The Mobile Police
 Peacemaker Kurogane
 Peach Girl
 Penguin Girl
 Penguin no Mondai
-PERSONA -trinity soul-
+PERSONA  trinity soul 
 Persona 4 The Animation
 Persona 4 The Golden Animation
-PES: Peace Eco Smile
+PES Peace Eco Smile
 Pet Shop of Horrors
 Petite Cossette
 Petite Princess Yucie
-PetoPeto-san
+PetoPeto san
 Phantom the Animation
 Phantom ～Requiem for the Phantom～
-Phi Brain: Kami no Puzzle
-Phi Brain: Kami no Puzzle 2
-Phi Brain: Kami no Puzzle 3rd Season
+Phi Brain Kami no Puzzle
+Phi Brain Kami no Puzzle 2
+Phi Brain Kami no Puzzle 3rd Season
 Photo Kano
 Photon
 Piano no Mori
-Piano: The Melody of a Young Girl\'s Heart
+Piano The Melody of a Young Girl\'s Heart
 Pilot Candidate
 Ping Pong The Animation
 Pita Ten
 Pizza cats
-Planetarium Uchuu Kyoudai: Itten no Hikari
+Planetarium Uchuu Kyoudai Itten no Hikari
 Planetes
 Planzet
 Platonic Chain
@@ -3861,12 +3859,12 @@ Please Twins!
 Pokemon
 Pokemon Best Wishes!
 Pokemon Best Wishes! Season 2
-Pokemon Best Wishes! Season 2: Episode N
+Pokemon Best Wishes! Season 2 Episode N
 Pokemon Diamond And Pearl
 Pokemon Movies
 Pokemon Spoof
 Pokemon XY
-Pokemon: The Origin Special
+Pokemon The Origin Special
 Polar Bear Cafe
 Polyphonica Crimson S
 Ponyo on the Cliff by the Sea (Miyazaki Hayao)
@@ -3881,53 +3879,53 @@ Pretty Cure Max Heart
 Pretty cure Splash Star
 Pretty Rhythm Aurora Dream
 Pretty Rhythm Aurora Dream Specials
-Pretty Rhythm: Dear My Future
-Pretty Rhythm: Rainbow Live
+Pretty Rhythm Dear My Future
+Pretty Rhythm Rainbow Live
 Prince Of Tennis
-Prince of Tennis - National Championship
+Prince of Tennis   National Championship
 Prince of Tennis OVA
-Prince of Tennis: Eikokushiki Teikyuu Shiro Kessen!
+Prince of Tennis Eikokushiki Teikyuu Shiro Kessen!
 Princess Lover
 Princess Lover! Uncensored
 Princess Nine
 Princess Princess
 Princess Tutu
 Prism Ark
-Project A-ko
+Project A ko
 Project Arms
-Project ARMS: The 2nd Chapter
+Project ARMS The 2nd Chapter
 Psychic Academy
 Psychic Detective Yakumo
 Psycho Pass
 Puchimas! Wakku Waku!!
-Puchimas!!: Petit Petit iDOLM@STER
-Puchimas!: Petit iDOLM@STER
+Puchimas!! Petit Petit iDOLM@STER
+Puchimas! Petit iDOLM@STER
 Puchitto Gargantia ONA
 Puka Puka Juju Special
 Pumpkin Scissors
 Pupa
 Pupipo!
 Puri Para
-Queen’s Blade: Rurou no Senshi
-Queen's Blade: Gyokuza no Tsugumono
+Queen’s Blade Rurou no Senshi
+Queen's Blade Gyokuza no Tsugumono
 Queens Blade OVA
-Queens Blade: Rebellion
-Queens Blade: Rebellion Specials
-Queens Blade: Utsukushiki Toushi-tachi OVA
-Queen’s Blade: Rurou no Senshi
+Queens Blade Rebellion
+Queens Blade Rebellion Specials
+Queens Blade Utsukushiki Toushi tachi OVA
+Queen’s Blade Rurou no Senshi
 Quiz Magic Academy
-R-15
+R 15
 Ragnarok
 RahXephon
 Rail Wars
 Raimuiro Senkitan
-Rainbow: Nisha Rokubou no Shichinin
+Rainbow Nisha Rokubou no Shichinin
 Ramen Fighter Miki
 Ranma 1/2
 Ranma 1/2 OVA
 Rave Master
 RAW
-RDG: Red Data Girl
+RDG Red Data Girl
 Re Hamatora
 Read or Die the TV
 Real Drive
@@ -3940,7 +3938,7 @@ Red Vs Blue
 Redline
 Refrain Blue OVA
 Reideen
-Renkin 3-kyuu Magical? Pokahn
+Renkin 3 kyuu Magical? Pokahn
 Rental Magica
 Revolutionary Girl Utena
 Ride Back
@@ -3948,15 +3946,15 @@ Ring ni Kakero
 Rinne no Lagrange
 Rinne no Lagrange 2
 Rinne no Lagrange Specials
-Rio: Rainbow Gate!
+Rio Rainbow Gate!
 Ristorante Paradiso
 Rizelmine
-Ro-Kyu-Bu!
-Ro-Kyu-Bu! SS
+Ro Kyu Bu!
+Ro Kyu Bu! SS
 Robot Girls Z
 Robotech
 Robotics;Notes
-Rock Lee no Seishun Full-Power Ninden
+Rock Lee no Seishun Full Power Ninden
 Rocket Girls
 Rokujouma no Shinryakusha
 Romantica Clock
@@ -3968,7 +3966,7 @@ Rosario + Vampire Capu2
 Rose of Versailles
 Rozen Maiden
 Rozen Maiden (2013)
-Rozen Maiden: Träumend
+Rozen Maiden Träumend
 Rumbling Hearts
 Rumbling Hearts ~next season~
 Rune Soldier
@@ -3977,7 +3975,7 @@ Rurouni Kenshin Movie
 RWBY
 Ryuugajou Nanana no Maizoukin
 Ryuusei No Rockman
-S-Cry-Ed
+S Cry Ed
 Sabagebu!
 Saber Marionette
 Saber Marionette J Again
@@ -3987,22 +3985,22 @@ Sacred Seven
 Sadamitsu the Destroyer
 Saikano
 Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
-Saikyou Ginga Ultimate Zero: Battle Spirits
+Saikyou Ginga Ultimate Zero Battle Spirits
 Sailor Moon
 Sailor Moon Movie
 Sailor Moon Powers
 Saint Beast
 Saint October
-Saint Onii-san OVA
+Saint Onii san OVA
 Saint Seiya
 Saint Seiya 2 Hades Chapter Sanctuary
 Saint Seiya 3 Hades Infero
 Saint Seiya 4 Hades Chapter Elysion
 Saint Seiya Hades
 Saint Seiya Omega
-Saint Seiya OVA Hades - Elysion
-Saint Seiya OVA Hades - Inferno
-Saint Seiya OVA Hades - Sanctuary
+Saint Seiya OVA Hades   Elysion
+Saint Seiya OVA Hades   Inferno
+Saint Seiya OVA Hades   Sanctuary
 Saint Seiya The Lost Canvas
 Saishuu Shiken Kujira
 Saiunkoku Monogatari
@@ -4012,15 +4010,15 @@ Saiyuki Gaiden
 Saiyuki Reload
 Saiyuki Reload Gunlock
 Sakamichi no Apollon
-Sakasama no Patema: Beginning of the Day
+Sakasama no Patema Beginning of the Day
 Saki
-Saki: Achiga-hen Episode of Side A
-Saki: Zenkoku-hen
+Saki Achiga hen Episode of Side A
+Saki Zenkoku hen
 Sakura Diaries
 Sakura Trick
 Sakura Wars
 Sakurasou no Pet na Kanojo
-Saladin: The Animated Series
+Saladin The Animated Series
 Salaryman Kintaro
 Samurai 7
 Samurai Champloo
@@ -4031,11 +4029,11 @@ Samurai Jack
 Samurai Pizza Cats
 Samurai X Trust & Betrayal
 Samurai X Truth And Betrayal
-Samurai X: Reflection
+Samurai X Reflection
 Sankarea
-Sarai-ya Goyou
+Sarai ya Goyou
 Sasameki Koto
-Sasami-san@Ganbaranai
+Sasami san@Ganbaranai
 Save Me! Lollipop
 Sayonara Zetsubou Sensei
 School City Valanoir
@@ -4043,7 +4041,7 @@ School Days
 School Rumble
 Science Ninja Team Gatchaman
 Scrapped Princess
-Scryed Alteration I: Tao
+Scryed Alteration I Tao
 Sd Gundam Force
 SD Gundam Sangokuden
 SD Gundam Sangokuden Brave Battle Warriors
@@ -4059,7 +4057,7 @@ Seitokai Yakuindomo
 Seitokai Yakuindomo 2nd
 Seitokai Yakuindomo OVA
 Sekai de Ichiban Tsuyoku Naritai!
-Sekai Seifuku: Bouryaku no Zvezda
+Sekai Seifuku Bouryaku no Zvezda
 Sekaiichi Hatsukoi
 Sekaiichi Hatsukoi 2
 Sekiei Ayakashi Mangatan
@@ -4067,16 +4065,16 @@ Sekirei
 Sekirei Pure Engagement
 Selector Infected Wixoss
 Sengoku Basara
-Sengoku Basara Movie: The Last Party
+Sengoku Basara Movie The Last Party
 Sengoku Basara Season 2
-Sengoku Basara: Judge End
+Sengoku Basara Judge End
 Sengoku Collection
 Sengoku Otome Momoiro Paradox
 Sengoku Paradise
 Sengoku Paradise Kiwami
 Senhime Zesshou Symphogear
 Senjou no Valkyria
-Senjou no Valkyria 3: Tagatame no Juusou
+Senjou no Valkyria 3 Tagatame no Juusou
 Senki Zesshou Symphogear
 Senki Zesshou Symphogear G
 Senkou no Night Raid
@@ -4094,13 +4092,13 @@ Shakugan no Shana
 Shakugan no Shana II
 Shakugan no Shana III
 Shakugan no Shana S OVA
-Shakugan no Shana: Naze Nani Shana
+Shakugan no Shana Naze Nani Shana
 Shaman King
 Shaman The King
 Shamanic Princess
-Shangri-La
+Shangri La
 Shattered Angels
-Shiba Inuko-san
+Shiba Inuko san
 Shigofumi
 Shigurui
 Shikabane Hime Aka
@@ -4109,12 +4107,12 @@ Shiki
 Shimanchu MiRiKa 2
 Shin Koihime Musou
 Shin Koihime Musou Otome Tairan
-Shin Koihime Musou: Live Revolution OVA
-Shin Mazinger Shougeki! Z-Hen
-Shin Megami Tensei:Demikids light & dark
+Shin Koihime Musou Live Revolution OVA
+Shin Mazinger Shougeki! Z Hen
+Shin Megami TenseiDemikids light & dark
 Shin Strange+
 Shingetsutan Tsukihime
-Shingu: Secret of the Stellar Wars
+Shingu Secret of the Stellar Wars
 Shinigami no Ballad
 Shining Hearts
 Shining Tears X Wind
@@ -4140,7 +4138,7 @@ Shugo Chara!
 Shugo Chara! Doki
 Shukufuku no Campanella
 Shura no Toki
-Shuten Doji - The Star Hand Kid
+Shuten Doji   The Star Hand Kid
 Shutsugeki! Machine Robo Rescue
 Sidonia no Kishi
 Silent Möbius
@@ -4157,7 +4155,7 @@ Slam Dunk
 Slap Up Party Arad Senki
 Slayer TRY
 Slayers
-Slayers Evolution-R
+Slayers Evolution R
 Slayers Next
 Slayers Revolution
 Sleeping with Hinako
@@ -4169,8 +4167,8 @@ Sofuteni
 Sol Bianca
 Sola
 Solty Rei
-Someday’s Dreamers: Summer Skies
-SoniAni: Super Sonico The Animation
+Someday’s Dreamers Summer Skies
+SoniAni Super Sonico The Animation
 Sonic the Hedgehog (SatAM)
 Sonic Underground
 Sonic X
@@ -4178,14 +4176,14 @@ sonyuhshidae
 Sora Kake Girl
 Sora no Manimani
 Sora no Otoshimono
-Sora no Otoshimono Movie: Tokeijikake no Angeloid
-Sora no Otoshimono: Forte
+Sora no Otoshimono Movie Tokeijikake no Angeloid
+Sora no Otoshimono Forte
 Sora o Miageru Shoujo no Hitomi ni Utsuru Sekai
 Sorcerer Hunters
 Soredemo Machi wa Mawatteiru
 Soredemo Sekai wa Utsukushii
 Soukou no Strain
-Soukyuu no Fafner: Dead Aggressor
+Soukyuu no Fafner Dead Aggressor
 Soul Eater
 Soul Eater Not!
 Soul Hunter
@@ -4211,9 +4209,9 @@ Spider Riders
 Spiral
 SpongeBob SquarePants
 Star Driver
-Star Driver: Kagayaki no Takuto
+Star Driver Kagayaki no Takuto
 Star Ocean EX Series
-Star Wars: The Clone Wars
+Star Wars The Clone Wars
 Starry Sky
 Starship Operators
 Starship Troopers
@@ -4222,10 +4220,10 @@ Steel Angel Kurumi
 Steel Angel Kurumi II
 Steins;Gate
 Steins;Gate Fuka Ryouiki no Deja vu
-Stella Jogakuin Koutou-ka C3-bu
+Stella Jogakuin Koutou ka C3 bu
 Stellar Buster Mito
 Stellvia of the Universe
-Stop! Hibari-kun
+Stop! Hibari kun
 Straight Title Robot Anime
 Strait Jacket
 Strange+
@@ -4240,16 +4238,16 @@ Strike Witches The Movie
 Sugar Sugar Rune
 Suisei no Gargantia
 Suite Precure
-suki desu suzuki-kun!!!
+suki desu suzuki kun!!!
 Sukisho!!
 Sukitte Iinayo
 Sumomomo Momomo
 Super GALS
 Super Mario World
-Super Robot Taisen OG: Divine Wars
-Super Robot Taisen OG: The Inspector
+Super Robot Taisen OG Divine Wars
+Super Robot Taisen OG The Inspector
 Super Robot Wars OG Divine Wars
-Super Robot Wars Taisen OG: The Inspector
+Super Robot Wars Taisen OG The Inspector
 Super Seisyun Brothers
 Superman
 Suteki Tantei Labyrinth
@@ -4264,15 +4262,15 @@ Taishou Yakyuu Musume
 Tales of Eternia
 Tales of Phantasia
 Tales of Symphonia
-Tales of Symphonia: Tethe alla-hen OVA
-Tales of Symphonia: Tethe’alla-hen
+Tales of Symphonia Tethe alla hen OVA
+Tales of Symphonia Tethe’alla hen
 Tales of the Abyss
-Tales of Vesperia: The First Strike
+Tales of Vesperia The First Strike
 Tamako Market
 Tamayura OVA
-Tamayura: Hitotose
-Tamayura: More Aggressive
-Tanken Driland: 1000-nen no Mahou
+Tamayura Hitotose
+Tamayura More Aggressive
+Tanken Driland 1000 nen no Mahou
 Tantei Gakuen Q
 Tantei Opera Milky Holmes
 Tantei Opera Milky Holmes 2
@@ -4286,29 +4284,29 @@ Teekyuu 2
 Teekyuu 3
 Teekyuu!
 Tekkaman Blade
-Tekken: Blood Vengeance
+Tekken Blood Vengeance
 Telepathy Shoujo Ran
 Tenchi in Tokyo
 Tenchi Muyo GXP
 Tenchi Muyo OVA
-Tenchi Muyo! Ryo-Ohki
+Tenchi Muyo! Ryo Ohki
 Tenchi Universe
 Tengen Toppa Gurren Lagann
 Tenjou Tenge
-Tenshi Muyo! Ryo-Ohki
+Tenshi Muyo! Ryo Ohki
 Tenshi na Konamaiki
 Tenshi Ni Narumon
 Tenshi no Drop
 Tentai Senshi Sunred
 Tentai Senshi Sunred II
-Tesagure! Bukatsu-mono
-Tesagure! Bukatsu-mono Encore
-Tetsuwan Birdy Decode:02
+Tesagure! Bukatsu mono
+Tesagure! Bukatsu mono Encore
+Tetsuwan Birdy Decode02
 Texhnolyze
 The Adventures of Peter Pan
 The Big O
 The Borrower Arrietty
-The Daichis: Earth Defence Family
+The Daichis Earth Defence Family
 The Daughter of 20 Faces
 The Disappearance of Haruhi Suzumiya Movie
 The Enemy's the Pirates
@@ -4323,11 +4321,11 @@ The Legend of Zelda
 The Mars Daybreak
 The Melancholy of Haruhi Suzumiya
 The Melancholy of Haruhi Suzumiya S2
-The Melancholy of Haruhi-chan Suzumiya
+The Melancholy of Haruhi chan Suzumiya
 The Melody of Oblivion
 The Sacred Blacksmith
 The Skull Man
-The Spectular Spirder-Man
+The Spectular Spirder Man
 The Super Dimension Fortress Macross
 The Third
 The Tower of DRUAGA
@@ -4348,13 +4346,13 @@ To Aru Kagaku no Railgun
 To Aru Kagaku no Railgun OVA
 To Aru Majutsu no Index
 To Aru Majutsu No Index II
-To aru Majutsu no Index: Endymion no Kiseki Movie
+To aru Majutsu no Index Endymion no Kiseki Movie
 To heart
 To heart 2
 To Heart 2 adnext OVA
-To Heart: Remember My Memories
+To Heart Remember My Memories
 To LOVE Ru Darkness
-To LOVE-Ru
+To LOVE Ru
 TO OVA
 Toaru Hikuushi e no Koiuta
 Toaru Kagaku no Railgun S
@@ -4365,16 +4363,16 @@ Tokko
 Tokyo ESP
 Tokyo Ghoul
 Tokyo Magnitude 8.0
-Tokyo Majin Gakuen Kenpucho: Tou 2nd Act
+Tokyo Majin Gakuen Kenpucho Tou 2nd Act
 Tokyo Majin Gakuen Kenpuchou
 Tokyo Mew Mew
 Tokyo Ravens
 Tokyo Tribe 2
 Tokyo Underground
-Tona-Gura!
+Tona Gura!
 Tonagura
 Tonari no Kaibutsu kun
-Tonari no Seki-kun
+Tonari no Seki kun
 Tono to Issho OVA
 Toradora
 Toriko
@@ -4389,20 +4387,20 @@ Training with Hinako (OAV)
 Transformers Beast Machine
 Transformers Energon
 Trava
-Triangle Heart - Sweet Songs Forever
+Triangle Heart   Sweet Songs Forever
 Trigun
-Trigun Movie: Badlands Rumble
+Trigun Movie Badlands Rumble
 Trinity Blood
 Tristia Of The Deep Blue Sea (OVA)
 Trouble Chocolate
 True Tears
 Tsubasa Chronicles
-Tsubasa: Shunraiki OVA
-Tsubasa: Toyko Revelations
-Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary
+Tsubasa Shunraiki OVA
+Tsubasa Toyko Revelations
+Tsuki wa Higashi ni Hi wa Nishi ni Operation Sanctuary
 Tsukuyomi Moon Phase
 Tsuritama
-Tsuyokiss: CoolxSweet
+Tsuyokiss CoolxSweet
 Turn A Gundam
 Turning Girls ONA
 Twin Spica
@@ -4411,31 +4409,31 @@ Uchouten Kazoku
 Uchurei!
 UFO Ultramaiden Valkyrie
 Ultimate Girls
-Ultimate Muscle: The Kinnikuman Legacy
+Ultimate Muscle The Kinnikuman Legacy
 Ultra Maniac
 Ultraviolet Code 044
 Umi Monogatari
 Umineko no naku koro ni
 Umisho
-UN-GO
+UN GO
 Uncategorized
 Under Arrest Full Throttle
 Uninhabited Planet Survive!
 Upotte!!
 Uragiri wa Boku no Namae o Shitteiru
-Urda: The Third Reich
+Urda The Third Reich
 Urusei Yatsura
 Urusei Yatsura Movies
 Urusei Yatsura OVA Series
-Urusei Yatsura Special: It\'s Spring! Take Off!
+Urusei Yatsura Special It\'s Spring! Take Off!
 Ushio and Tora
-Uta no Prince-sama Maji Love 1000%
-Uta no Prince-sama Maji Love 2000%
+Uta no Prince sama Maji Love 1000%
+Uta no Prince sama Maji Love 2000%
 Utawarerumono
 Uta~Kata
 Valkyria Chronicles
 Valvrave The Liberator
-Vampire Hunter D: Bloodlust
+Vampire Hunter D Bloodlust
 Vampire Knight
 Vampire Knight Guilty
 Vampire Princess Miyu TV
@@ -4457,8 +4455,8 @@ VS Knight Lamune & 40 Fire
 W Wish
 W Wish Omake
 Wagamama Fairy Mirumo de Pon!
-Wagaya no Oinari-sama
-Wagaya no Oinari-sama Specials
+Wagaya no Oinari sama
+Wagaya no Oinari sama Specials
 Wake Up, Girls!
 Walkure Romanze
 Wan Wan Serepuu Soreyuke! Tetsunoshin
@@ -4477,7 +4475,7 @@ White Album
 White Album 2
 White Album Season 2
 Wild Arms
-Wind: A Breath of Heart
+Wind A Breath of Heart
 Windy Tales
 Wings of Rean
 Winter Cicada
@@ -4486,13 +4484,13 @@ Winx Club
 Witch Craft Works
 Witch Hunter Robin
 Witchblade
-Wizard Barristers: Benmashi Cecil
+Wizard Barristers Benmashi Cecil
 Wolf's Rain
 Wolverine
-Wolverine and The X-Men
+Wolverine and The X Men
 Wonder Momo
 Wooser no Sono Higurashi
-Wooser no sono higurashi 2 Kakusei-hen
+Wooser no sono higurashi 2 Kakusei hen
 Working!!
 Working!! II
 World Destruction
@@ -4501,8 +4499,8 @@ W~Wish
 X Maiden
 X Men 2011
 X TV
-X-Men
-X-Men Evolution
+X Men
+X Men Evolution
 Xamd Lost Memories
 Xenosaga
 Xiaolin Showdown
@@ -4510,7 +4508,7 @@ xxxHOLiC
 xxxHOLiC Kei Movie
 xxxHolic Rou OVA
 xxxHOLiC Season 2
-xxxHOLiC: Shunmuki OVA
+xxxHOLiC Shunmuki OVA
 Yahari Ore no Seishun Love Come wa Machigatteiru.
 Yakitake Japan
 Yakitate!! Japan
@@ -4525,11 +4523,11 @@ Yami to Bōshi to Hon no Tabibito
 Yawara
 Yes ! precure 5
 Yes! Precure 5 GoGo!
-Yojou-Han Shinwa Taikei
+Yojou Han Shinwa Taikei
 Yoku Wakaru Gendai Mahou
-Yomigaeru Sora: Rescue Wings
-Yondemasu yo Azazel-san
-Yondemasu yo, Azazel-san. Z
+Yomigaeru Sora Rescue Wings
+Yondemasu yo Azazel san
+Yondemasu yo, Azazel san. Z
 Yosuga no Sora
 You Are Umasou
 You Are Umasou Movie
@@ -4538,17 +4536,17 @@ Youkai Watch
 Young Animator Training Project 2011
 Yowamushi Pedal
 Yozakura Quartet
-Yozakura Quartet: Hana no Uta
-Yozakura Quartet: Hoshi no Umi
+Yozakura Quartet Hana no Uta
+Yozakura Quartet Hoshi no Umi
 Yu Yu Hakusho
-Yu-Gi-Oh
-Yu-Gi-Oh 5D
-Yu-Gi-Oh! Arc-V
-Yu-Gi-Oh! Capsule Monsters
-Yu-Gi-Oh! Duel Monsters
-Yu-Gi-Oh! GX
-Yu-Gi-Oh! Zexal
-Yu-Gi-Oh: The Abridged Series
+Yu Gi Oh
+Yu Gi Oh 5D
+Yu Gi Oh! Arc V
+Yu Gi Oh! Capsule Monsters
+Yu Gi Oh! Duel Monsters
+Yu Gi Oh! GX
+Yu Gi Oh! Zexal
+Yu Gi Oh The Abridged Series
 Yugo the Negotiator
 Yume Tsukai
 Yumeiro Patissiere
@@ -4561,9 +4559,9 @@ Yuru Yuri 2
 Yurumates 3D
 Yuusha ni Narenakatta
 Yuyushiki
-Z-Kai: Cross Road
-Z/X: Ignition
-Zaion: I Wish You Were Here
+Z Kai Cross Road
+Z/X Ignition
+Zaion I Wish You Were Here
 Zan Sayonara Zetsubou Sensei
 Zankyou no Terror
 Zatch Bell
@@ -4571,17 +4569,17 @@ Zegapain
 Zenki
 Zero no Tsukaima
 Zero no Tsukaima Final
-Zero No Tsukaima: Futatsuki no Kishi
-Zero no Tsukaima: Princesses no Rondo
+Zero No Tsukaima Futatsuki no Kishi
+Zero no Tsukaima Princesses no Rondo
 Zetman
 Zetsuen no Tempest
-Zetsumetsu Kigu Shoujo: Amazing Twins
+Zetsumetsu Kigu Shoujo Amazing Twins
 Zettai Bouei Leviathan
 Zettai Karen Children
 Zettai Karen Children OVA
-Zettai Karen Children: The Unlimited Hyoubu Kyousuke
+Zettai Karen Children The Unlimited Hyoubu Kyousuke
 Zettai Shonen
-Zettai Shougeki - Platonic Heart
+Zettai Shougeki   Platonic Heart
 Zipang
 Zoids Chaotic Century
 Zoids Fuzors
@@ -5433,7 +5431,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5469,8 +5467,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -5507,7 +5504,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5543,8 +5540,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -5581,7 +5577,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5617,8 +5613,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -5655,7 +5650,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5691,8 +5686,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -5729,7 +5723,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5765,8 +5759,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -5803,7 +5796,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5839,8 +5832,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -5877,7 +5869,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5913,8 +5905,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -5951,7 +5942,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -5987,8 +5978,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6025,7 +6015,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6061,8 +6051,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6099,7 +6088,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6135,8 +6124,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6173,7 +6161,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6209,8 +6197,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6247,7 +6234,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6283,8 +6270,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6321,7 +6307,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6357,8 +6343,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6395,7 +6380,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6431,8 +6416,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6469,7 +6453,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6505,8 +6489,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6543,7 +6526,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6579,8 +6562,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6617,7 +6599,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6653,8 +6635,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6691,7 +6672,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6727,8 +6708,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6765,7 +6745,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6801,8 +6781,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6839,7 +6818,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6875,8 +6854,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6913,7 +6891,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -6949,8 +6927,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -6987,7 +6964,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -7023,8 +7000,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -7061,7 +7037,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -7097,8 +7073,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -7135,7 +7110,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -7171,8 +7146,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -7209,7 +7183,7 @@ mistaken idea of denouncing pleasure and praising pain was
 born and I will give you a complete account of the system
 and expound the actual teachings 
 of the great explorer of the truth
-the master-builder of human happiness
+the master builder of human happiness
 No one rejects
 dislikes
 or avoids 
@@ -7245,8 +7219,7 @@ we denounce with righteous
 indignation and dislike men who are so beguiled and demoralized by the charms 
 of pleasure of the moment
 so blinded by desire
-that they cannot foresee the pain and trouble that are bound to ensue
-and equal blame belongs 
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
 to those who fail in their duty through weakness 
 of will
 which is 
@@ -7260,3 +7233,1817 @@ untrammelled and when nothing prevents
 our being able to do what we like best
 every pleasure is 
 to be welcomed and every pain avoided
+But in certain circumstances 
+and owing to the claims 
+of duty or the obligations 
+of business 
+it will frequently occur that pleasures 
+have to be repudiated and annoyances 
+accepted
+The wise man therefore always 
+holds 
+in these matters 
+to this 
+principle of selection
+he rejects 
+pleasures 
+to secure other greater pleasures
+or else he endures 
+pains 
+to avoid worse pains
+But I must explain to you how all this 
+mistaken idea of denouncing pleasure and praising pain was 
+born and I will give you a complete account of the system
+and expound the actual teachings 
+of the great explorer of the truth
+the master builder of human happiness
+No one rejects
+dislikes
+or avoids 
+pleasure itself
+because it is 
+pleasure
+but because those who do not know how to pursue pleasure rationally encounter consequences 
+that are extremely painful
+Nor again is 
+there anyone who loves 
+or pursues 
+or desires 
+to obtain pain of itself
+because it is 
+pain
+but because occasionally circumstances 
+occur in which toil and pain can procure him some great pleasure
+To take a trivial example
+which of us 
+ever undertakes 
+laborious 
+physical exercise
+except to obtain some advantage from it
+But who has 
+any right to find fault with a man who chooses 
+to enjoy a pleasure that has 
+no annoying consequences
+or one who avoids 
+a pain that produces 
+no resultant pleasure
+On the other hand
+we denounce with righteous 
+indignation and dislike men who are so beguiled and demoralized by the charms 
+of pleasure of the moment
+so blinded by desire
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
+to those who fail in their duty through weakness 
+of will
+which is 
+the same as 
+saying through shrinking from toil and pain
+These cases 
+are perfectly simple and easy to distinguish
+In a free hour
+when our power of choice is 
+untrammelled and when nothing prevents 
+our being able to do what we like best
+every pleasure is 
+to be welcomed and every pain avoided
+But in certain circumstances 
+and owing to the claims 
+of duty or the obligations 
+of business 
+it will frequently occur that pleasures 
+have to be repudiated and annoyances 
+accepted
+The wise man therefore always 
+holds 
+in these matters 
+to this 
+principle of selection
+he rejects 
+pleasures 
+to secure other greater pleasures
+or else he endures 
+pains 
+to avoid worse pains
+But I must explain to you how all this 
+mistaken idea of denouncing pleasure and praising pain was 
+born and I will give you a complete account of the system
+and expound the actual teachings 
+of the great explorer of the truth
+the master builder of human happiness
+No one rejects
+dislikes
+or avoids 
+pleasure itself
+because it is 
+pleasure
+but because those who do not know how to pursue pleasure rationally encounter consequences 
+that are extremely painful
+Nor again is 
+there anyone who loves 
+or pursues 
+or desires 
+to obtain pain of itself
+because it is 
+pain
+but because occasionally circumstances 
+occur in which toil and pain can procure him some great pleasure
+To take a trivial example
+which of us 
+ever undertakes 
+laborious 
+physical exercise
+except to obtain some advantage from it
+But who has 
+any right to find fault with a man who chooses 
+to enjoy a pleasure that has 
+no annoying consequences
+or one who avoids 
+a pain that produces 
+no resultant pleasure
+On the other hand
+we denounce with righteous 
+indignation and dislike men who are so beguiled and demoralized by the charms 
+of pleasure of the moment
+so blinded by desire
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
+to those who fail in their duty through weakness 
+of will
+which is 
+the same as 
+saying through shrinking from toil and pain
+These cases 
+are perfectly simple and easy to distinguish
+In a free hour
+when our power of choice is 
+untrammelled and when nothing prevents 
+our being able to do what we like best
+every pleasure is 
+to be welcomed and every pain avoided
+But in certain circumstances 
+and owing to the claims 
+of duty or the obligations 
+of business 
+it will frequently occur that pleasures 
+have to be repudiated and annoyances 
+accepted
+The wise man therefore always 
+holds 
+in these matters 
+to this 
+principle of selection
+he rejects 
+pleasures 
+to secure other greater pleasures
+or else he endures 
+pains 
+to avoid worse pains
+But I must explain to you how all this 
+mistaken idea of denouncing pleasure and praising pain was 
+born and I will give you a complete account of the system
+and expound the actual teachings 
+of the great explorer of the truth
+the master builder of human happiness
+No one rejects
+dislikes
+or avoids 
+pleasure itself
+because it is 
+pleasure
+but because those who do not know how to pursue pleasure rationally encounter consequences 
+that are extremely painful
+Nor again is 
+there anyone who loves 
+or pursues 
+or desires 
+to obtain pain of itself
+because it is 
+pain
+but because occasionally circumstances 
+occur in which toil and pain can procure him some great pleasure
+To take a trivial example
+which of us 
+ever undertakes 
+laborious 
+physical exercise
+except to obtain some advantage from it
+But who has 
+any right to find fault with a man who chooses 
+to enjoy a pleasure that has 
+no annoying consequences
+or one who avoids 
+a pain that produces 
+no resultant pleasure
+On the other hand
+we denounce with righteous 
+indignation and dislike men who are so beguiled and demoralized by the charms 
+of pleasure of the moment
+so blinded by desire
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
+to those who fail in their duty through weakness 
+of will
+which is 
+the same as 
+saying through shrinking from toil and pain
+These cases 
+are perfectly simple and easy to distinguish
+In a free hour
+when our power of choice is 
+untrammelled and when nothing prevents 
+our being able to do what we like best
+every pleasure is 
+to be welcomed and every pain avoided
+But in certain circumstances 
+and owing to the claims 
+of duty or the obligations 
+of business 
+it will frequently occur that pleasures 
+have to be repudiated and annoyances 
+accepted
+The wise man therefore always 
+holds 
+in these matters 
+to this 
+principle of selection
+he rejects 
+pleasures 
+to secure other greater pleasures
+or else he endures 
+pains 
+to avoid worse pains
+But I must explain to you how all this 
+mistaken idea of denouncing pleasure and praising pain was 
+born and I will give you a complete account of the system
+and expound the actual teachings 
+of the great explorer of the truth
+the master builder of human happiness
+No one rejects
+dislikes
+or avoids 
+pleasure itself
+because it is 
+pleasure
+but because those who do not know how to pursue pleasure rationally encounter consequences 
+that are extremely painful
+Nor again is 
+there anyone who loves 
+or pursues 
+or desires 
+to obtain pain of itself
+because it is 
+pain
+but because occasionally circumstances 
+occur in which toil and pain can procure him some great pleasure
+To take a trivial example
+which of us 
+ever undertakes 
+laborious 
+physical exercise
+except to obtain some advantage from it
+But who has 
+any right to find fault with a man who chooses 
+to enjoy a pleasure that has 
+no annoying consequences
+or one who avoids 
+a pain that produces 
+no resultant pleasure
+On the other hand
+we denounce with righteous 
+indignation and dislike men who are so beguiled and demoralized by the charms 
+of pleasure of the moment
+so blinded by desire
+that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs 
+to those who fail in their duty through weakness 
+of will
+which is 
+the same as 
+saying through shrinking from toil and pain
+These cases 
+are perfectly simple and easy to distinguish
+In a free hour
+when our power of choice is 
+untrammelled and when nothing prevents 
+our being able to do what we like best
+every pleasure is 
+to be welcomed and every pain avoided
+But in certain circumstances 
+and owing to the claims 
+of duty or the obligations 
+of business 
+it will frequently occur that pleasures 
+have to be repudiated and annoyances 
+accepted
+The wise man therefore always 
+holds 
+in these matters 
+to this 
+principle of selection
+he rejects 
+pleasures 
+to secure other greater pleasures
+or else he endures 
+pains 
+to avoid worse pains.But I must explain to you how all this 
+mistaken idea of denouncing pleasure and praising pain was 
+born and I will give you a complete account of the system
+and expound the actual teachings 
+of the great explorer of the truth
+the master builder of human happiness
+No one rejects
+dislikes
+or avoids 
+pleasure itself
+because it is 
+pleasure
+but because those who do not know how to pursue pleasure rationally encounter consequences 
+that are extremely painful
+Nor again is 
+there anyone who loves 
+or pursues 
+or desires 
+to obtain pain of itself
+because it is 
+pain
+but because occasionally circumstances 
+occur in which toil and pain can procure him some great pleasure
+To take a trivial example
+which of us 
+ever undertakes 
+laborious 
+physical exercise
+except to obtain some advantage from it
+But who has 
+any right to find fault with a man who chooses 
+to enjoy a pleasure that has 
+no annoying consequences
+or one who avoids 
+a pain that produces 
+no resultant pleasure
+On the
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is
+The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English
+as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family
+Their separate existence is a myth
+For science
+music
+sport
+etc
+Europe uses the same vocabulary
+The languages only differ in their grammar
+their pronunciation and their most common words
+Everyone realizes why a new common language would be desirable one could refuse to pay expensive translators
+To achieve this
+it would be necessary to have uniform grammar
+pronunciation and more common words
+If several languages coalesce
+the grammar of the resulting language is more simple and regular than that of the individual languages
+The new common language will be more simple and regular than the existing European languages
+It will be as simple as Occidental; in fact
+it will be Occidental
+To an English person
+it will seem like simplified English

@@ -102,7 +102,7 @@ public class Processor extends ApplicationWindow {
 				donelabel.setText("");//reset done label
 				
 				
-				//get Input
+				// Input Module
 				InputStream is = new ByteArrayInputStream(titleText.getText().getBytes()); 
 				// read it with BufferedReader
 				BufferedReader br = new BufferedReader(new InputStreamReader(is));
@@ -133,27 +133,22 @@ public class Processor extends ApplicationWindow {
 				}
 				sc.close();
 		
+				prolabel.setText("Doing KWIC...");
 				
 				//Start Processing
 				circShifter myShifter= new circShifter (titles,nos);
 				myShifter.doShift();
 				myShifter.alphabeter();
 				
-				//End processing, Output result
+				//End processing, Output Module
 				String result=myShifter.print();
 				Resulttext.setText(result);
+	
 				
-				
-				//JFrame proframe= new JFrame ();
-				//proframe.setVisible(true);
-				//JTextArea prot= new JTextArea("Applying bold effect");
-				//proframe.add(prot);
-				
-				
-				
+				//Apply the bold effect, if required
 				if(boldButton.getSelection())
 				{
-				//Apply the bold effect
+				
 				prolabel.setText("KWIC done, Apply bold effects: ");
 				int total=result.split("\n").length;
 				int start=0;
@@ -181,13 +176,10 @@ public class Processor extends ApplicationWindow {
 				for(int i=0;i<tmp.size();i++)
 					rs[i]=tmp.get(i);
 				Resulttext.setStyleRanges(rs);
-				
-				
 			
-				prolabel.setText("");
-				
 				countlabel.setText("");
 				}
+				prolabel.setText("");
 				donelabel.setText("Done!");
 				
 				
